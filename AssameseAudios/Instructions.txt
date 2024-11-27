@@ -1,0 +1,15 @@
+Instructions:
+
+Emotion detection:
+AB08, AB09, AA06
+
+Speaker identification:
+AA05, AA08, AA09, AA10
+
+Transcripts:
+AA05 & AA06: Transcript only available on the youtube video. Please check if you find the transcript from library.
+AA08: page 37 in the pdf
+AA09: page 331 in the pdf
+AA10: page 347 (col 2, line 5) in the pdf
+AB08: page 141 in the pdf
+AB09: page 785 in the pdf
