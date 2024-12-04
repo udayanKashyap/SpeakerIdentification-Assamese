@@ -1,2 +1,4 @@
 AssameseAudios/Audios/
 DisVoice/
+.venv
+kaldi/
