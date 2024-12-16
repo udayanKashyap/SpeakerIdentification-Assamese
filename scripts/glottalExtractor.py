@@ -2,6 +2,8 @@ import os
 import numpy as np
 from timeit import default_timer as timer
 from disvoice.glottal import Glottal
+import pandas as pd
+import argparse
 
 # Log file to record errors
 log_file_path = "error_log.txt"
@@ -19,15 +21,15 @@ def extract_glottal_features(audio_file, output_folder):
     try:
         glottalf = Glottal()
         static_features1 = glottalf.extract_features_file(
-            audio_file, static=True, plots=False, fmt="npy"
+            audio_file, static=True, plots=False, fmt="dataframe"
         )
-        # print(f"Processing file: {audio_file}")
 
         # Save features to CSV
         base_name = os.path.basename(audio_file)
         file_name, _ = os.path.splitext(base_name)
         csv_file_path = os.path.join(output_folder, f"{file_name}.csv")
-        np.savetxt(csv_file_path, static_features1, delimiter=",", fmt="%.6f")
+
+        static_features1.to_csv(csv_file_path, index=False)  # Use Pandas to save
 
     except Exception as e:
         error_message = f"Error processing file {audio_file}: {str(e)}"
@@ -93,7 +95,19 @@ def process_audio(audioFolder, outputFolder):
 
 
 if __name__ == "__main__":
-    textGridFolder = "../Annotations"
-    audioFolder = "../AssameseAudios/Audios/seperateFiles"
-    outputFolder = "../Data/glottal_features"
+    parser = argparse.ArgumentParser(
+        description="Process audio files to extract glottal features."
+    )
+    parser.add_argument(
+        "--audioFolder",
+        type=str,
+        required=True,
+        help="Path to the folder containing audio files.",
+    )
+
+    args = parser.parse_args()
+
+    audioFolder = args.audioFolder
+    outputFolder = "/home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/Data/glottal_features_resampled"
+
     process_audio(audioFolder, outputFolder)

@@ -2,6 +2,7 @@ import os
 import numpy as np
 from timeit import default_timer as timer
 from disvoice.prosody import Prosody
+import pandas as pd
 
 # Log file to record errors
 log_file_path = "error_log.txt"
@@ -16,27 +17,28 @@ def log_error(error_message):
 def exctract_features(audio_file, output_folder):
     start_time = timer()  # Start timer for the file processing
 
-    # try:
-    phonationf = Prosody()
-    static_features1 = phonationf.extract_features_file(
-        audio_file, static=True, plots=False, fmt="npy"
-    )
-    # print(f"Processing file: {audio_file}")
+    try:
+        phonationf = Prosody()
+        static_features1 = phonationf.extract_features_file(
+            audio_file, static=True, plots=False, fmt="dataframe"
+        )
+        # print(f"Processing file: {audio_file}")
 
-    # Save features to CSV
-    base_name = os.path.basename(audio_file)
-    file_name, _ = os.path.splitext(base_name)
-    csv_file_path = os.path.join(output_folder, f"{file_name}.csv")
-    np.savetxt(csv_file_path, static_features1, delimiter=",", fmt="%.6f")
+        # Save features to CSV
+        base_name = os.path.basename(audio_file)
+        file_name, _ = os.path.splitext(base_name)
+        csv_file_path = os.path.join(output_folder, f"{file_name}.csv")
 
-    # except Exception as e:
-    #     error_message = f"Error processing file {audio_file}: {str(e)}"
-    #     print(error_message)
-    #     log_error(error_message)
-    #     return (
-    #         None,
-    #         0,
-    #     )  # Return None for the file path and 0 for elapsed time if there's an error
+        static_features1.to_csv(csv_file_path, index=False)  # Use Pandas to save
+
+    except Exception as e:
+        error_message = f"Error processing file {audio_file}: {str(e)}"
+        print(error_message)
+        log_error(error_message)
+        return (
+            None,
+            0,
+        )  # Return None for the file path and 0 for elapsed time if there's an error
 
     end_time = timer()  # End timer for the file processing
     elapsed_time = end_time - start_time  # Time taken to process the file
@@ -94,6 +96,6 @@ def process_audio(audioFolder, outputFolder):
 
 if __name__ == "__main__":
     textGridFolder = "../Annotations"
-    audioFolder = "/home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/"
-    outputFolder = "../Data/prosody_features//"
+    audioFolder = "/home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFilesResampled/"
+    outputFolder = "../Data/prosody_features_resampled/"
     process_audio(audioFolder, outputFolder)

@@ -2,3 +2,4 @@ AssameseAudios/Audios/
 DisVoice/
 .venv
 kaldi/
+Data/*

@@ -11,6 +11,9 @@ def extract_segments_from_textgrid(textgrid_path, audio_path, output_folder):
     # Load the audio file
     audio = AudioSegment.from_file(audio_path)
 
+    # Resample the audio to 16 kHz
+    audio = audio.set_frame_rate(16000)
+
     # Get the base filename without extension
     base_name = os.path.splitext(os.path.basename(audio_path))[0]
 
@@ -62,7 +65,7 @@ if __name__ == "__main__":
     # Specify paths
     textgrid_folder = "../Annotations/"
     audio_folder = "../AssameseAudios/Audios/"
-    output_folder = "../AssameseAudios/Audios/seperateFiles/"
+    output_folder = "../AssameseAudios/Audios/seperateFilesResampled/"
 
     # Process files
     process_textgrid_and_audio_files(textgrid_folder, audio_folder, output_folder)
