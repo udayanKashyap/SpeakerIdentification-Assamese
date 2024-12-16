@@ -2,1261 +2,1101 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0 
-xmax = 694.4180952380952 
+xmax = 694.418 
 tiers? <exists> 
 size = 1 
 item []: 
     item [1]:
         class = "IntervalTier" 
-        name = "sentences" 
+        name = "Annotation" 
         xmin = 0 
-        xmax = 694.4180952380952 
-        intervals: size = 312 
+        xmax = 694.418 
+        intervals: size = 272 
         intervals [1]:
             xmin = 0 
-            xmax = 0.9432982876304807 
-            text = "S1" 
+            xmax = 1.243 
+            text = "Segment 1" 
         intervals [2]:
-            xmin = 0.9432982876304807 
-            xmax = 1.560106971255314 
+            xmin = 1.383 
+            xmax = 1.439 
             text = "" 
         intervals [3]:
-            xmin = 1.560106971255314 
-            xmax = 2.4034072758512064 
-            text = "S2" 
+            xmin = 1.55 
+            xmax = 2.513 
+            text = "Segment 3" 
         intervals [4]:
-            xmin = 2.4034072758512064 
-            xmax = 3.0393022891142802 
-            text = "" 
+            xmin = 2.62 
+            xmax = 2.637 
+            text = "Segment 4" 
         intervals [5]:
-            xmin = 3.0393022891142802 
-            xmax = 9.791488144146973 
-            text = "S3" 
+            xmin = 2.796 
+            xmax = 3.731 
+            text = "Segment 5" 
         intervals [6]:
-            xmin = 9.791488144146973 
-            xmax = 11.56085849882654 
-            text = "" 
+            xmin = 3.849 
+            xmax = 3.856 
+            text = "Segment 6" 
         intervals [7]:
-            xmin = 11.56085849882654 
-            xmax = 13.149993250335099 
-            text = "S4" 
+            xmin = 4.134 
+            xmax = 6.009 
+            text = "Segment 7" 
         intervals [8]:
-            xmin = 13.149993250335099 
-            xmax = 13.953982373627964 
-            text = "" 
+            xmin = 6.131 
+            xmax = 10.04 
+            text = "Segment 8" 
         intervals [9]:
-            xmin = 13.953982373627964 
-            xmax = 18.099551290606808 
-            text = "S5" 
+            xmin = 10.211 
+            xmax = 10.214 
+            text = "Segment 9" 
         intervals [10]:
-            xmin = 18.099551290606808 
-            xmax = 18.96646272672549 
+            xmin = 10.417 
+            xmax = 10.535 
             text = "" 
         intervals [11]:
-            xmin = 18.96646272672549 
-            xmax = 23.04644625565697 
-            text = "S6" 
+            xmin = 10.754 
+            xmax = 11.034 
+            text = "" 
         intervals [12]:
-            xmin = 23.04644625565697 
-            xmax = 23.632039069858596 
+            xmin = 11.197 
+            xmax = 11.327 
             text = "" 
         intervals [13]:
-            xmin = 23.632039069858596 
-            xmax = 29.382813399748215 
-            text = "S7" 
+            xmin = 11.505 
+            xmax = 13.102 
+            text = "Segment 13" 
         intervals [14]:
-            xmin = 29.382813399748215 
-            xmax = 30.311200385276436 
-            text = "" 
+            xmin = 13.239 
+            xmax = 18.041 
+            text = "Segment 14" 
         intervals [15]:
-            xmin = 30.311200385276436 
-            xmax = 33.64652434374343 
-            text = "S8" 
+            xmin = 18.229 
+            xmax = 18.31 
+            text = "Segment 15" 
         intervals [16]:
-            xmin = 33.64652434374343 
-            xmax = 34.5053253329847 
+            xmin = 18.582 
+            xmax = 18.63 
             text = "" 
         intervals [17]:
-            xmin = 34.5053253329847 
-            xmax = 36.68298525333463 
-            text = "S9" 
+            xmin = 18.755 
+            xmax = 20.471 
+            text = "Segment 17" 
         intervals [18]:
-            xmin = 36.68298525333463 
-            xmax = 37.559494815921454 
-            text = "" 
+            xmin = 20.584 
+            xmax = 24.823 
+            text = "Segment 18" 
         intervals [19]:
-            xmin = 37.559494815921454 
-            xmax = 39.04568513512579 
-            text = "S10" 
+            xmin = 25.01 
+            xmax = 29.545 
+            text = "Segment 19" 
         intervals [20]:
-            xmin = 39.04568513512579 
-            xmax = 39.60893674826792 
-            text = "" 
+            xmin = 29.894 
+            xmax = 29.899 
+            text = "Segment 20" 
         intervals [21]:
-            xmin = 39.60893674826792 
-            xmax = 42.456164517690965 
-            text = "S11" 
+            xmin = 30.008 
+            xmax = 30.024 
+            text = "Segment 21" 
         intervals [22]:
-            xmin = 42.456164517690965 
-            xmax = 43.48392171504558 
+            xmin = 30.201 
+            xmax = 30.25 
             text = "" 
         intervals [23]:
-            xmin = 43.48392171504558 
-            xmax = 44.829315056641086 
-            text = "S12" 
+            xmin = 30.35 
+            xmax = 33.94 
+            text = "Segment 23" 
         intervals [24]:
-            xmin = 44.829315056641086 
-            xmax = 45.242319524293656 
-            text = "" 
+            xmin = 34.449 
+            xmax = 37.013 
+            text = "Segment 24" 
         intervals [25]:
-            xmin = 45.242319524293656 
-            xmax = 46.90059503835323 
-            text = "S13" 
+            xmin = 37.17 
+            xmax = 37.242 
+            text = "" 
         intervals [26]:
-            xmin = 46.90059503835323 
-            xmax = 48.1369826369633 
-            text = "" 
+            xmin = 37.407 
+            xmax = 40.36 
+            text = "Segment 26" 
         intervals [27]:
-            xmin = 48.1369826369633 
-            xmax = 50.77145052911078 
-            text = "S14" 
+            xmin = 40.505 
+            xmax = 41.11 
+            text = "Segment 27" 
         intervals [28]:
-            xmin = 50.77145052911078 
-            xmax = 51.756780818613784 
-            text = "" 
+            xmin = 41.479 
+            xmax = 42.436 
+            text = "Segment 28" 
         intervals [29]:
-            xmin = 51.756780818613784 
-            xmax = 54.597750944587546 
-            text = "S15" 
-        intervals [30]:
-            xmin = 54.597750944587546 
-            xmax = 55.367441088849155 
+            xmin = 42.779 
+            xmax = 43.085 
             text = "" 
+        intervals [30]:
+            xmin = 43.457 
+            xmax = 47.06 
+            text = "Segment 30" 
         intervals [31]:
-            xmin = 55.367441088849155 
-            xmax = 56.24351117174855 
-            text = "S16" 
+            xmin = 47.246 
+            xmax = 47.367 
+            text = "Segment 31" 
         intervals [32]:
-            xmin = 56.24351117174855 
-            xmax = 56.97928764162516 
+            xmin = 47.601 
+            xmax = 47.676 
             text = "" 
         intervals [33]:
-            xmin = 56.97928764162516 
-            xmax = 61.91031067965891 
-            text = "S17" 
+            xmin = 47.847 
+            xmax = 47.92 
+            text = "" 
         intervals [34]:
-            xmin = 61.91031067965891 
-            xmax = 62.34371931976266 
-            text = "" 
+            xmin = 48.088 
+            xmax = 50.765 
+            text = "Segment 34" 
         intervals [35]:
-            xmin = 62.34371931976266 
-            xmax = 63.42003399303906 
-            text = "S18" 
+            xmin = 50.943 
+            xmax = 51.513 
+            text = "" 
         intervals [36]:
-            xmin = 63.42003399303906 
-            xmax = 64.83638976219764 
-            text = "" 
+            xmin = 51.693 
+            xmax = 58.044 
+            text = "Segment 36" 
         intervals [37]:
-            xmin = 64.83638976219764 
-            xmax = 70.4056924320581 
-            text = "S19" 
+            xmin = 58.149 
+            xmax = 62.013 
+            text = "Segment 37" 
         intervals [38]:
-            xmin = 70.4056924320581 
-            xmax = 71.12344788993171 
-            text = "" 
+            xmin = 62.194 
+            xmax = 62.23930063220486 
+            text = "Segment 38" 
         intervals [39]:
-            xmin = 71.12344788993171 
-            xmax = 73.45754889651367 
-            text = "S20" 
+            xmin = 62.23930063220486 
+            xmax = 63.4460763578694 
+            text = "Segment 37" 
         intervals [40]:
-            xmin = 73.45754889651367 
-            xmax = 74.49569319616312 
+            xmin = 63.4460763578694 
+            xmax = 64.76717820491268 
             text = "" 
         intervals [41]:
-            xmin = 74.49569319616312 
-            xmax = 76.16648399712126 
-            text = "S21" 
+            xmin = 64.76717820491268 
+            xmax = 66.11368585670681 
+            text = "Segment 38" 
         intervals [42]:
-            xmin = 76.16648399712126 
-            xmax = 77.6739512082578 
+            xmin = 66.11368585670681 
+            xmax = 66.141 
             text = "" 
         intervals [43]:
-            xmin = 77.6739512082578 
-            xmax = 80.15197801417325 
-            text = "S22" 
+            xmin = 66.349 
+            xmax = 69.468 
+            text = "Segment 39" 
         intervals [44]:
-            xmin = 80.15197801417325 
-            xmax = 80.87386276587517 
-            text = "" 
+            xmin = 69.671 
+            xmax = 70.447 
+            text = "Segment 40" 
         intervals [45]:
-            xmin = 80.87386276587517 
-            xmax = 88.29542789672294 
-            text = "S23" 
+            xmin = 70.567 
+            xmax = 70.862 
+            text = "" 
         intervals [46]:
-            xmin = 88.29542789672294 
-            xmax = 88.92069513413344 
-            text = "" 
+            xmin = 71.113 
+            xmax = 71.871 
+            text = "Segment 42" 
         intervals [47]:
-            xmin = 88.92069513413344 
-            xmax = 90.81050345581642 
-            text = "S24" 
+            xmin = 72.026 
+            xmax = 72.612 
+            text = "Segment 43" 
         intervals [48]:
-            xmin = 90.81050345581642 
-            xmax = 92.21509585642127 
-            text = "" 
+            xmin = 72.751 
+            xmax = 73.415 
+            text = "Segment 44" 
         intervals [49]:
-            xmin = 92.21509585642127 
-            xmax = 94.45533221126402 
-            text = "S25" 
+            xmin = 73.649 
+            xmax = 73.702 
+            text = "Segment 45" 
         intervals [50]:
-            xmin = 94.45533221126402 
-            xmax = 94.96783446117385 
+            xmin = 73.915 
+            xmax = 74.49760142448152 
             text = "" 
         intervals [51]:
-            xmin = 94.96783446117385 
-            xmax = 97.32070839810366 
-            text = "S26" 
+            xmin = 74.49760142448152 
+            xmax = 76.19979034278728 
+            text = "Segment 46" 
         intervals [52]:
-            xmin = 97.32070839810366 
-            xmax = 98.3025339067096 
+            xmin = 76.19979034278728 
+            xmax = 76.467 
             text = "" 
         intervals [53]:
-            xmin = 98.3025339067096 
-            xmax = 101.25614161477043 
-            text = "S27" 
+            xmin = 76.623 
+            xmax = 76.688 
+            text = "" 
         intervals [54]:
-            xmin = 101.25614161477043 
-            xmax = 102.28465089548715 
+            xmin = 76.844 
+            xmax = 76.902 
             text = "" 
         intervals [55]:
-            xmin = 102.28465089548715 
-            xmax = 104.10562513922804 
-            text = "S28" 
+            xmin = 77.086 
+            xmax = 77.173 
+            text = "" 
         intervals [56]:
-            xmin = 104.10562513922804 
-            xmax = 105.04302263075773 
-            text = "" 
+            xmin = 77.425 
+            xmax = 80.522 
+            text = "Segment 50" 
         intervals [57]:
-            xmin = 105.04302263075773 
-            xmax = 112.47084540505477 
-            text = "S29 " 
+            xmin = 80.889 
+            xmax = 82.346 
+            text = "Segment 51" 
         intervals [58]:
-            xmin = 112.47084540505477 
-            xmax = 113.10725149808773 
-            text = "" 
+            xmin = 82.621 
+            xmax = 85.312 
+            text = "Segment 52" 
         intervals [59]:
-            xmin = 113.10725149808773 
-            xmax = 117.63778535536748 
-            text = "S30" 
+            xmin = 85.455 
+            xmax = 85.456 
+            text = "Segment 53" 
         intervals [60]:
-            xmin = 117.63778535536748 
-            xmax = 119.36577392391857 
-            text = "" 
+            xmin = 85.718 
+            xmax = 87.333 
+            text = "Segment 54" 
         intervals [61]:
-            xmin = 119.36577392391857 
-            xmax = 122.17545583264592 
-            text = "S31" 
+            xmin = 87.459 
+            xmax = 88.294 
+            text = "Segment 55" 
         intervals [62]:
-            xmin = 122.17545583264592 
-            xmax = 122.69283929472894 
-            text = "" 
+            xmin = 88.433 
+            xmax = 91.138 
+            text = "Segment 56" 
         intervals [63]:
-            xmin = 122.69283929472894 
-            xmax = 126.95429448368961 
-            text = "S32" 
+            xmin = 91.275 
+            xmax = 91.346 
+            text = "Segment 57" 
         intervals [64]:
-            xmin = 126.95429448368961 
-            xmax = 127.81872825623984 
+            xmin = 91.541 
+            xmax = 91.987 
             text = "" 
         intervals [65]:
-            xmin = 127.81872825623984 
-            xmax = 133.112694614332 
-            text = "S33" 
+            xmin = 92.094 
+            xmax = 94.738 
+            text = "Segment 59" 
         intervals [66]:
-            xmin = 133.112694614332 
-            xmax = 133.38678190023782 
-            text = "" 
+            xmin = 94.877 
+            xmax = 97.515 
+            text = "Segment 60" 
         intervals [67]:
-            xmin = 133.38678190023782 
-            xmax = 138.19265206928603 
-            text = "S34" 
-        intervals [68]:
-            xmin = 138.19265206928603 
-            xmax = 139.09463204974097 
+            xmin = 97.631 
+            xmax = 97.941 
             text = "" 
+        intervals [68]:
+            xmin = 98.111 
+            xmax = 101.425 
+            text = "Segment 62" 
         intervals [69]:
-            xmin = 139.09463204974097 
-            xmax = 155.75210887958974 
-            text = "S35" 
+            xmin = 101.549 
+            xmax = 101.563 
+            text = "Segment 63" 
         intervals [70]:
-            xmin = 155.75210887958974 
-            xmax = 156.82517356562153 
+            xmin = 101.777 
+            xmax = 101.937 
             text = "" 
         intervals [71]:
-            xmin = 156.82517356562153 
-            xmax = 158.60234430521749 
-            text = "S36" 
+            xmin = 102.12 
+            xmax = 104.33 
+            text = "Segment 65" 
         intervals [72]:
-            xmin = 158.60234430521749 
-            xmax = 159.44299687704216 
-            text = "" 
+            xmin = 104.543 
+            xmax = 105.979 
+            text = "Segment 66" 
         intervals [73]:
-            xmin = 159.44299687704216 
-            xmax = 164.8120549565257 
-            text = "S37" 
+            xmin = 106.186 
+            xmax = 109.164 
+            text = "Segment 67" 
         intervals [74]:
-            xmin = 164.8120549565257 
-            xmax = 165.31842696839973 
-            text = "" 
+            xmin = 109.375 
+            xmax = 112.562 
+            text = "Segment 68" 
         intervals [75]:
-            xmin = 165.31842696839973 
-            xmax = 168.49730984063476 
-            text = "S38" 
+            xmin = 112.955 
+            xmax = 112.991 
+            text = "" 
         intervals [76]:
-            xmin = 168.49730984063476 
-            xmax = 169.68075637089376 
-            text = "" 
+            xmin = 113.117 
+            xmax = 113.744 
+            text = "Segment 70" 
         intervals [77]:
-            xmin = 169.68075637089376 
-            xmax = 179.57709833758716 
-            text = "S39" 
+            xmin = 113.884 
+            xmax = 122.264 
+            text = "Segment 71" 
         intervals [78]:
-            xmin = 179.57709833758716 
-            xmax = 180.97756111432923 
-            text = "" 
+            xmin = 122.378 
+            xmax = 123.528 
+            text = "Segment 72" 
         intervals [79]:
-            xmin = 180.97756111432923 
-            xmax = 182.77976242772232 
-            text = "S40" 
+            xmin = 123.63 
+            xmax = 127.525 
+            text = "Segment 73" 
         intervals [80]:
-            xmin = 182.77976242772232 
-            xmax = 183.49050830662708 
-            text = "" 
+            xmin = 127.81 
+            xmax = 128.377 
+            text = "Segment 74" 
         intervals [81]:
-            xmin = 183.49050830662708 
-            xmax = 190.912073437475 
-            text = "S41" 
+            xmin = 128.544 
+            xmax = 135.641 
+            text = "Segment 75" 
         intervals [82]:
-            xmin = 190.912073437475 
-            xmax = 192.0831317390399 
-            text = "" 
+            xmin = 135.803 
+            xmax = 138.253 
+            text = "Segment 76" 
         intervals [83]:
-            xmin = 192.0831317390399 
-            xmax = 197.90899779032102 
-            text = "S42" 
+            xmin = 138.366 
+            xmax = 138.513 
+            text = "Segment 77" 
         intervals [84]:
-            xmin = 197.90899779032102 
-            xmax = 198.81248160746554 
+            xmin = 138.714 
+            xmax = 138.749 
             text = "" 
         intervals [85]:
-            xmin = 198.81248160746554 
-            xmax = 207.18520854260424 
-            text = "S43" 
+            xmin = 139.006 
+            xmax = 143.408 
+            text = "Segment 79" 
         intervals [86]:
-            xmin = 207.18520854260424 
-            xmax = 208.61007771024657 
-            text = "" 
+            xmin = 143.835 
+            xmax = 147.359 
+            text = "Segment 80" 
         intervals [87]:
-            xmin = 208.61007771024657 
-            xmax = 210.23706500705975 
-            text = "S44" 
+            xmin = 147.498 
+            xmax = 149.442 
+            text = "Segment 81" 
         intervals [88]:
-            xmin = 210.23706500705975 
-            xmax = 211.1022507151294 
-            text = "" 
+            xmin = 149.623 
+            xmax = 151.541 
+            text = "Segment 82" 
         intervals [89]:
-            xmin = 211.1022507151294 
-            xmax = 224.91912745114303 
-            text = "S45" 
+            xmin = 151.641 
+            xmax = 153.011 
+            text = "Segment 83" 
         intervals [90]:
-            xmin = 224.91912745114303 
-            xmax = 225.74138618397893 
-            text = "" 
+            xmin = 153.166 
+            xmax = 154.918 
+            text = "Segment 84" 
         intervals [91]:
-            xmin = 225.74138618397893 
-            xmax = 237.54330172932376 
-            text = "S46" 
+            xmin = 155.03 
+            xmax = 155.729 
+            text = "Segment 85" 
         intervals [92]:
-            xmin = 237.54330172932376 
-            xmax = 238.61849476497667 
-            text = "" 
+            xmin = 156.21 
+            xmax = 156.369 
+            text = "Segment 86" 
         intervals [93]:
-            xmin = 238.61849476497667 
-            xmax = 241.6409365509796 
-            text = "S47" 
+            xmin = 156.77 
+            xmax = 157.616 
+            text = "Segment 87" 
         intervals [94]:
-            xmin = 241.6409365509796 
-            xmax = 242.23478798353827 
-            text = "" 
+            xmin = 157.753 
+            xmax = 158.965 
+            text = "Segment 88" 
         intervals [95]:
-            xmin = 242.23478798353827 
-            xmax = 243.88367703242392 
-            text = "S48" 
+            xmin = 159.103 
+            xmax = 159.123 
+            text = "" 
         intervals [96]:
-            xmin = 243.88367703242392 
-            xmax = 244.88778059948382 
-            text = "" 
+            xmin = 159.235 
+            xmax = 167.231 
+            text = "Segment 90" 
         intervals [97]:
-            xmin = 244.88778059948382 
-            xmax = 249.07101524532843 
-            text = "S49" 
+            xmin = 167.365 
+            xmax = 173.111 
+            text = "Segment 91" 
         intervals [98]:
-            xmin = 249.07101524532843 
-            xmax = 249.73551703117639 
-            text = "" 
+            xmin = 173.215 
+            xmax = 179.904 
+            text = "Segment 92" 
         intervals [99]:
-            xmin = 249.73551703117639 
-            xmax = 256.0745098452984 
-            text = "S50" 
-        intervals [100]:
-            xmin = 256.0745098452984 
-            xmax = 256.60315940340024 
+            xmin = 180.093 
+            xmax = 180.508 
             text = "" 
+        intervals [100]:
+            xmin = 180.635 
+            xmax = 180.77 
+            text = "Segment 94" 
         intervals [101]:
-            xmin = 256.60315940340024 
-            xmax = 262.64178533195684 
-            text = "S51" 
+            xmin = 180.897 
+            xmax = 182.936 
+            text = "Segment 95" 
         intervals [102]:
-            xmin = 262.64178533195684 
-            xmax = 263.0730656224396 
+            xmin = 183.138 
+            xmax = 183.303 
             text = "" 
         intervals [103]:
-            xmin = 263.0730656224396 
-            xmax = 265.45097013316655 
-            text = "S52" 
+            xmin = 183.458 
+            xmax = 185.192 
+            text = "Segment 97" 
         intervals [104]:
-            xmin = 265.45097013316655 
-            xmax = 266.7638262316531 
-            text = "" 
+            xmin = 185.349 
+            xmax = 188.555 
+            text = "Segment 98" 
         intervals [105]:
-            xmin = 266.7638262316531 
-            xmax = 274.1853913625009 
-            text = "S53" 
+            xmin = 188.679 
+            xmax = 190.9 
+            text = "Segment 99" 
         intervals [106]:
-            xmin = 274.1853913625009 
-            xmax = 275.30438757226426 
+            xmin = 191.101 
+            xmax = 191.803 
             text = "" 
         intervals [107]:
-            xmin = 275.30438757226426 
-            xmax = 278.9400784162968 
-            text = "S54" 
+            xmin = 192.071 
+            xmax = 193.786 
+            text = "Segment 101" 
         intervals [108]:
-            xmin = 278.9400784162968 
-            xmax = 281.24514696066694 
-            text = "" 
+            xmin = 193.947 
+            xmax = 198.1 
+            text = "Segment 102" 
         intervals [109]:
-            xmin = 281.24514696066694 
-            xmax = 282.7094355277988 
-            text = "S55" 
+            xmin = 198.388 
+            xmax = 199.561 
+            text = "Segment 103" 
         intervals [110]:
-            xmin = 282.7094355277988 
-            xmax = 283.34145751617626 
-            text = "" 
+            xmin = 199.663 
+            xmax = 201.38 
+            text = "Segment 104" 
         intervals [111]:
-            xmin = 283.34145751617626 
-            xmax = 287.6342009223833 
-            text = "S56" 
+            xmin = 201.581 
+            xmax = 205.977 
+            text = "Segment 105" 
         intervals [112]:
-            xmin = 287.6342009223833 
-            xmax = 288.11203757956326 
-            text = "" 
+            xmin = 206.088 
+            xmax = 206.787 
+            text = "Segment 106" 
         intervals [113]:
-            xmin = 288.11203757956326 
-            xmax = 289.5137497122023 
-            text = "S57" 
+            xmin = 206.936 
+            xmax = 207.501 
+            text = "Segment 107" 
         intervals [114]:
-            xmin = 289.5137497122023 
-            xmax = 290.1027201147795 
+            xmin = 207.618 
+            xmax = 207.727 
             text = "" 
         intervals [115]:
-            xmin = 290.1027201147795 
-            xmax = 291.6546156902013 
-            text = "S58" 
+            xmin = 207.843 
+            xmax = 208.378 
+            text = "" 
         intervals [116]:
-            xmin = 291.6546156902013 
-            xmax = 292.61491505869816 
-            text = "" 
+            xmin = 208.503 
+            xmax = 213.412 
+            text = "Segment 110" 
         intervals [117]:
-            xmin = 292.61491505869816 
-            xmax = 294.64239153626534 
-            text = "S59" 
+            xmin = 213.64 
+            xmax = 215.324 
+            text = "Segment 111" 
         intervals [118]:
-            xmin = 294.64239153626534 
-            xmax = 295.5275991833708 
-            text = "" 
+            xmin = 215.516 
+            xmax = 216.317 
+            text = "Segment 112" 
         intervals [119]:
-            xmin = 295.5275991833708 
-            xmax = 299.68267443369365 
-            text = "S60" 
+            xmin = 216.514 
+            xmax = 220.504 
+            text = "Segment 113" 
         intervals [120]:
-            xmin = 299.68267443369365 
-            xmax = 300.3996779732224 
-            text = "" 
+            xmin = 220.692 
+            xmax = 221.778 
+            text = "Segment 114" 
         intervals [121]:
-            xmin = 300.3996779732224 
-            xmax = 305.2681245767634 
-            text = "S61" 
+            xmin = 221.999 
+            xmax = 222.071 
+            text = "" 
         intervals [122]:
-            xmin = 305.2681245767634 
-            xmax = 306.3390609303489 
+            xmin = 222.225 
+            xmax = 222.369 
             text = "" 
         intervals [123]:
-            xmin = 306.3390609303489 
-            xmax = 313.59792733151534 
-            text = "S62" 
+            xmin = 222.807 
+            xmax = 222.879 
+            text = "" 
         intervals [124]:
-            xmin = 313.59792733151534 
-            xmax = 314.23295699327224 
-            text = "" 
+            xmin = 223.067 
+            xmax = 225.094 
+            text = "Segment 118" 
         intervals [125]:
-            xmin = 314.23295699327224 
-            xmax = 318.30042523530517 
-            text = "S63" 
+            xmin = 225.342 
+            xmax = 225.54 
+            text = "" 
         intervals [126]:
-            xmin = 318.30042523530517 
-            xmax = 318.4318357477401 
-            text = "" 
+            xmin = 225.723 
+            xmax = 228.639 
+            text = "Segment 120" 
         intervals [127]:
-            xmin = 318.4318357477401 
-            xmax = 318.8886437195376 
-            text = "S64" 
-        intervals [128]:
-            xmin = 318.8886437195376 
-            xmax = 319.9095189255289 
+            xmin = 228.907 
+            xmax = 228.931 
             text = "" 
+        intervals [128]:
+            xmin = 229.13 
+            xmax = 229.83 
+            text = "Segment 122" 
         intervals [129]:
-            xmin = 319.9095189255289 
-            xmax = 323.8580919420255 
-            text = "S65" 
+            xmin = 229.969 
+            xmax = 237.646 
+            text = "Segment 123" 
         intervals [130]:
-            xmin = 323.8580919420255 
-            xmax = 324.71551649999066 
+            xmin = 237.787 
+            xmax = 238.276 
             text = "" 
         intervals [131]:
-            xmin = 324.71551649999066 
-            xmax = 327.95697580671845 
-            text = "S66" 
+            xmin = 238.522 
+            xmax = 241.868 
+            text = "Segment 125" 
         intervals [132]:
-            xmin = 327.95697580671845 
-            xmax = 328.5529557710899 
-            text = "" 
+            xmin = 242.008 
+            xmax = 244.314 
+            text = "Segment 126" 
         intervals [133]:
-            xmin = 328.5529557710899 
-            xmax = 330.6805545438456 
-            text = "S67" 
+            xmin = 244.414 
+            xmax = 249.066 
+            text = "Segment 127" 
         intervals [134]:
-            xmin = 330.6805545438456 
-            xmax = 331.29806030111706 
-            text = "" 
+            xmin = 249.215 
+            xmax = 250.514 
+            text = "Segment 128" 
         intervals [135]:
-            xmin = 331.29806030111706 
-            xmax = 336.54196551161493 
-            text = "S68" 
+            xmin = 250.651 
+            xmax = 256.112 
+            text = "Segment 129" 
         intervals [136]:
-            xmin = 336.54196551161493 
-            xmax = 337.02605981224417 
+            xmin = 256.233 
+            xmax = 256.479 
             text = "" 
         intervals [137]:
-            xmin = 337.02605981224417 
-            xmax = 344.47265551688906 
-            text = "S69" 
+            xmin = 256.585 
+            xmax = 257.347 
+            text = "Segment 131" 
         intervals [138]:
-            xmin = 344.47265551688906 
-            xmax = 345.38377340875917 
+            xmin = 257.526 
+            xmax = 257.558 
             text = "" 
         intervals [139]:
-            xmin = 345.38377340875917 
-            xmax = 348.9506301748496 
-            text = "S70" 
+            xmin = 257.714 
+            xmax = 261.455 
+            text = "Segment 133" 
         intervals [140]:
-            xmin = 348.9506301748496 
-            xmax = 349.626455667372 
-            text = "" 
+            xmin = 261.76 
+            xmax = 262.651 
+            text = "Segment 134" 
         intervals [141]:
-            xmin = 349.626455667372 
-            xmax = 350.827923209634 
-            text = "S71" 
-        intervals [142]:
-            xmin = 350.827923209634 
-            xmax = 351.7187643344665 
+            xmin = 262.76 
+            xmax = 262.838 
             text = "" 
+        intervals [142]:
+            xmin = 263.033 
+            xmax = 265.546 
+            text = "Segment 136" 
         intervals [143]:
-            xmin = 351.7187643344665 
-            xmax = 352.58231913046734 
-            text = "S72" 
+            xmin = 265.907 
+            xmax = 266.182 
+            text = "" 
         intervals [144]:
-            xmin = 352.58231913046734 
-            xmax = 352.94113315669733 
+            xmin = 266.311 
+            xmax = 266.593 
             text = "" 
         intervals [145]:
-            xmin = 352.94113315669733 
-            xmax = 357.3089682842958 
-            text = "S73" 
+            xmin = 266.755 
+            xmax = 269.735 
+            text = "Segment 139" 
         intervals [146]:
-            xmin = 357.3089682842958 
-            xmax = 358.15738233625945 
-            text = "" 
+            xmin = 269.871 
+            xmax = 269.882 
+            text = "Segment 140" 
         intervals [147]:
-            xmin = 358.15738233625945 
-            xmax = 363.98950603098973 
-            text = "S74" 
+            xmin = 270.122 
+            xmax = 271.706 
+            text = "Segment 141" 
         intervals [148]:
-            xmin = 363.98950603098973 
-            xmax = 364.9526860146615 
-            text = "" 
+            xmin = 271.812 
+            xmax = 274.286 
+            text = "Segment 142" 
         intervals [149]:
-            xmin = 364.9526860146615 
-            xmax = 368.36310169451986 
-            text = "S75" 
+            xmin = 274.453 
+            xmax = 274.556 
+            text = "Segment 143" 
         intervals [150]:
-            xmin = 368.36310169451986 
-            xmax = 369.10163102694855 
+            xmin = 274.66 
+            xmax = 274.89 
             text = "" 
         intervals [151]:
-            xmin = 369.10163102694855 
-            xmax = 381.73606761466596 
-            text = "S76" 
+            xmin = 275.024 
+            xmax = 277.492 
+            text = "Segment 145" 
         intervals [152]:
-            xmin = 381.73606761466596 
-            xmax = 382.40119477288056 
-            text = "" 
+            xmin = 277.61 
+            xmax = 279.225 
+            text = "Segment 146" 
         intervals [153]:
-            xmin = 382.40119477288056 
-            xmax = 384.0500838217662 
-            text = "S77" 
+            xmin = 279.396 
+            xmax = 279.535 
+            text = "" 
         intervals [154]:
-            xmin = 384.0500838217662 
-            xmax = 385.254431631994 
+            xmin = 279.674 
+            xmax = 279.675 
             text = "" 
         intervals [155]:
-            xmin = 385.254431631994 
-            xmax = 386.4465127090821 
-            text = "S78" 
+            xmin = 279.785 
+            xmax = 279.921 
+            text = "" 
         intervals [156]:
-            xmin = 386.4465127090821 
-            xmax = 386.84531320209436 
+            xmin = 280.024 
+            xmax = 280.121 
             text = "" 
         intervals [157]:
-            xmin = 386.84531320209436 
-            xmax = 387.5931015942835 
-            text = "S79" 
+            xmin = 280.344 
+            xmax = 280.609 
+            text = "" 
         intervals [158]:
-            xmin = 387.5931015942835 
-            xmax = 388.2748721265805 
+            xmin = 280.774 
+            xmax = 280.876 
             text = "" 
         intervals [159]:
-            xmin = 388.2748721265805 
-            xmax = 391.48504321606185 
-            text = "S80" 
+            xmin = 281.088 
+            xmax = 282.926 
+            text = "Segment 153" 
         intervals [160]:
-            xmin = 391.48504321606185 
-            xmax = 391.9882223562955 
-            text = "" 
+            xmin = 283.188 
+            xmax = 284.592 
+            text = "Segment 154" 
         intervals [161]:
-            xmin = 391.9882223562955 
-            xmax = 395.52691972686415 
-            text = "S81" 
+            xmin = 284.751 
+            xmax = 286.341 
+            text = "Segment 155" 
         intervals [162]:
-            xmin = 395.52691972686415 
-            xmax = 395.7731598737139 
-            text = "" 
+            xmin = 286.598 
+            xmax = 291.897 
+            text = "Segment 156" 
         intervals [163]:
-            xmin = 395.7731598737139 
-            xmax = 396.2675137062071 
-            text = "S82" 
+            xmin = 292.055 
+            xmax = 294.844 
+            text = "Segment 157" 
         intervals [164]:
-            xmin = 396.2675137062071 
-            xmax = 397.0007221645835 
+            xmin = 294.947 
+            xmax = 295.195 
             text = "" 
         intervals [165]:
-            xmin = 397.0007221645835 
-            xmax = 398.30231200203406 
-            text = "S83" 
+            xmin = 295.424 
+            xmax = 297.295 
+            text = "Segment 159" 
         intervals [166]:
-            xmin = 398.30231200203406 
-            xmax = 398.8774542241263 
-            text = "" 
+            xmin = 297.397 
+            xmax = 305.426 
+            text = "Segment 160" 
         intervals [167]:
-            xmin = 398.8774542241263 
-            xmax = 411.21627808024664 
-            text = "S84" 
+            xmin = 305.697 
+            xmax = 305.749 
+            text = "" 
         intervals [168]:
-            xmin = 411.21627808024664 
-            xmax = 412.2079930714036 
+            xmin = 305.929 
+            xmax = 306.104 
             text = "" 
         intervals [169]:
-            xmin = 412.2079930714036 
-            xmax = 413.3218536053757 
-            text = "S85" 
+            xmin = 306.25 
+            xmax = 308.22 
+            text = "Segment 163" 
         intervals [170]:
-            xmin = 413.3218536053757 
-            xmax = 413.7356099913731 
-            text = "" 
+            xmin = 308.33 
+            xmax = 313.715 
+            text = "Segment 164" 
         intervals [171]:
-            xmin = 413.7356099913731 
-            xmax = 420.33116618691565 
-            text = "S86" 
+            xmin = 313.947 
+            xmax = 319.632 
+            text = "Segment 165" 
         intervals [172]:
-            xmin = 420.33116618691565 
-            xmax = 421.2165015866438 
-            text = "" 
+            xmin = 319.775 
+            xmax = 323.851 
+            text = "Segment 166" 
         intervals [173]:
-            xmin = 421.2165015866438 
-            xmax = 427.12371700276543 
-            text = "S87" 
+            xmin = 324.031 
+            xmax = 328.31 
+            text = "Segment 167" 
         intervals [174]:
-            xmin = 427.12371700276543 
-            xmax = 427.9916559034219 
-            text = "" 
+            xmin = 328.518 
+            xmax = 329.523 
+            text = "Segment 168" 
         intervals [175]:
-            xmin = 427.9916559034219 
-            xmax = 429.1493199415389 
-            text = "S88" 
+            xmin = 329.71 
+            xmax = 329.722 
+            text = "" 
         intervals [176]:
-            xmin = 429.1493199415389 
-            xmax = 429.71325977031915 
-            text = "" 
+            xmin = 329.847 
+            xmax = 330.872 
+            text = "Segment 170" 
         intervals [177]:
-            xmin = 429.71325977031915 
-            xmax = 434.4565535048745 
-            text = "S89" 
+            xmin = 331.053 
+            xmax = 332.188 
+            text = "Segment 171" 
         intervals [178]:
-            xmin = 434.4565535048745 
-            xmax = 434.9093595882573 
-            text = "" 
+            xmin = 332.322 
+            xmax = 334.067 
+            text = "Segment 172" 
         intervals [179]:
-            xmin = 434.9093595882573 
-            xmax = 435.3161064124606 
-            text = "S90" 
+            xmin = 334.18 
+            xmax = 334.396 
+            text = "" 
         intervals [180]:
-            xmin = 435.3161064124606 
-            xmax = 436.0003178980532 
-            text = "" 
+            xmin = 334.604 
+            xmax = 336.56 
+            text = "Segment 174" 
         intervals [181]:
-            xmin = 436.0003178980532 
-            xmax = 437.1955277968659 
-            text = "S91" 
+            xmin = 336.741 
+            xmax = 341.41 
+            text = "Segment 175" 
         intervals [182]:
-            xmin = 437.1955277968659 
-            xmax = 438.1779778184031 
-            text = "" 
+            xmin = 341.513 
+            xmax = 344.556 
+            text = "Segment 176" 
         intervals [183]:
-            xmin = 438.1779778184031 
-            xmax = 439.9926944186947 
-            text = "S92" 
+            xmin = 344.751 
+            xmax = 344.773 
+            text = "Segment 177" 
         intervals [184]:
-            xmin = 439.9926944186947 
-            xmax = 440.6887966782546 
+            xmin = 344.881 
+            xmax = 344.915 
             text = "" 
         intervals [185]:
-            xmin = 440.6887966782546 
-            xmax = 442.0779935239951 
-            text = "S93" 
+            xmin = 345.156 
+            xmax = 346.273 
+            text = "Segment 179" 
         intervals [186]:
-            xmin = 442.0779935239951 
-            xmax = 442.6474390778797 
-            text = "" 
+            xmin = 346.498 
+            xmax = 349.403 
+            text = "Segment 180" 
         intervals [187]:
-            xmin = 442.6474390778797 
-            xmax = 445.6385926466362 
-            text = "S94" 
+            xmin = 349.613 
+            xmax = 350.927 
+            text = "Segment 181" 
         intervals [188]:
-            xmin = 445.6385926466362 
-            xmax = 446.8006407894089 
-            text = "" 
+            xmin = 351.029 
+            xmax = 351.104 
+            text = "Segment 182" 
         intervals [189]:
-            xmin = 446.8006407894089 
-            xmax = 448.7780561193818 
-            text = "S95" 
+            xmin = 351.249 
+            xmax = 351.306 
+            text = "" 
         intervals [190]:
-            xmin = 448.7780561193818 
-            xmax = 449.1138399866212 
-            text = "" 
+            xmin = 351.664 
+            xmax = 354.83 
+            text = "Segment 184" 
         intervals [191]:
-            xmin = 449.1138399866212 
-            xmax = 450.53119622788347 
-            text = "S96" 
+            xmin = 355.012 
+            xmax = 356.317 
+            text = "Segment 185" 
         intervals [192]:
-            xmin = 450.53119622788347 
-            xmax = 451.342376675617 
-            text = "" 
+            xmin = 356.44 
+            xmax = 357.38 
+            text = "Segment 186" 
         intervals [193]:
-            xmin = 451.342376675617 
-            xmax = 454.4962289740548 
-            text = "S97" 
-        intervals [194]:
-            xmin = 454.4962289740548 
-            xmax = 454.8947807482911 
+            xmin = 357.486 
+            xmax = 357.51 
             text = "" 
+        intervals [194]:
+            xmin = 357.7 
+            xmax = 358.914 
+            text = "Segment 188" 
         intervals [195]:
-            xmin = 454.8947807482911 
-            xmax = 461.208742988616 
-            text = "S98" 
+            xmin = 359.027 
+            xmax = 359.115 
+            text = "Segment 189" 
         intervals [196]:
-            xmin = 461.208742988616 
-            xmax = 461.86454652492813 
+            xmin = 359.288 
+            xmax = 359.304 
             text = "" 
         intervals [197]:
-            xmin = 461.86454652492813 
-            xmax = 471.54387191510386 
-            text = "S99" 
+            xmin = 359.498 
+            xmax = 361.666 
+            text = "Segment 191" 
         intervals [198]:
-            xmin = 471.54387191510386 
-            xmax = 472.7344554125707 
-            text = "" 
+            xmin = 361.796 
+            xmax = 364.22 
+            text = "Segment 192" 
         intervals [199]:
-            xmin = 472.7344554125707 
-            xmax = 474.3176392052389 
-            text = "S100" 
+            xmin = 364.486 
+            xmax = 364.608 
+            text = "" 
         intervals [200]:
-            xmin = 474.3176392052389 
-            xmax = 474.6034898596986 
-            text = "" 
+            xmin = 364.931 
+            xmax = 368.447 
+            text = "Segment 194" 
         intervals [201]:
-            xmin = 474.6034898596986 
-            xmax = 480.22285367715324 
-            text = "S101" 
+            xmin = 368.706 
+            xmax = 381.814 
+            text = "Segment 195" 
         intervals [202]:
-            xmin = 480.22285367715324 
-            xmax = 482.14558145818603 
-            text = "" 
+            xmin = 381.962 
+            xmax = 382.03 
+            text = "Segment 196" 
         intervals [203]:
-            xmin = 482.14558145818603 
-            xmax = 488.4970895592066 
-            text = "S102" 
-        intervals [204]:
-            xmin = 488.4970895592066 
-            xmax = 488.82198991105156 
+            xmin = 382.154 
+            xmax = 382.165 
             text = "" 
+        intervals [204]:
+            xmin = 382.34 
+            xmax = 385.109 
+            text = "Segment 198" 
         intervals [205]:
-            xmin = 488.82198991105156 
-            xmax = 492.1322832957214 
-            text = "S103" 
+            xmin = 385.226 
+            xmax = 386.451 
+            text = "Segment 199" 
         intervals [206]:
-            xmin = 492.1322832957214 
-            xmax = 493.04114543255696 
+            xmin = 386.573 
+            xmax = 386.584 
             text = "" 
         intervals [207]:
-            xmin = 493.04114543255696 
-            xmax = 494.53672221693523 
-            text = "S104" 
+            xmin = 386.778 
+            xmax = 388.103 
+            text = "Segment 201" 
         intervals [208]:
-            xmin = 494.53672221693523 
-            xmax = 495.0699983414002 
-            text = "" 
+            xmin = 388.241 
+            xmax = 392.829 
+            text = "Segment 202" 
         intervals [209]:
-            xmin = 495.0699983414002 
-            xmax = 497.2414006183008 
-            text = "S105" 
+            xmin = 393.015 
+            xmax = 395.539 
+            text = "Segment 203" 
         intervals [210]:
-            xmin = 497.2414006183008 
-            xmax = 497.7622885140719 
-            text = "" 
+            xmin = 395.67 
+            xmax = 396.447 
+            text = "Segment 204" 
         intervals [211]:
-            xmin = 497.7622885140719 
-            xmax = 502.91232907283046 
-            text = "S106" 
+            xmin = 396.614 
+            xmax = 396.757 
+            text = "" 
         intervals [212]:
-            xmin = 502.91232907283046 
-            xmax = 503.3504915196938 
-            text = "" 
+            xmin = 396.899 
+            xmax = 400.019 
+            text = "Segment 206" 
         intervals [213]:
-            xmin = 503.3504915196938 
-            xmax = 504.3642297584774 
-            text = "S107" 
+            xmin = 400.16 
+            xmax = 402.991 
+            text = "Segment 207" 
         intervals [214]:
-            xmin = 504.3642297584774 
-            xmax = 504.7522036523328 
-            text = "" 
+            xmin = 403.13 
+            xmax = 407.195 
+            text = "Segment 208" 
         intervals [215]:
-            xmin = 504.7522036523328 
-            xmax = 505.5406667269423 
-            text = "S108" 
+            xmin = 407.557 
+            xmax = 408.916 
+            text = "Segment 209" 
         intervals [216]:
-            xmin = 505.5406667269423 
-            xmax = 506.2813244089921 
-            text = "" 
+            xmin = 409.037 
+            xmax = 411.254 
+            text = "Segment 210" 
         intervals [217]:
-            xmin = 506.2813244089921 
-            xmax = 510.83063119661966 
-            text = "S109" 
+            xmin = 411.365 
+            xmax = 411.787 
+            text = "" 
         intervals [218]:
-            xmin = 510.83063119661966 
-            xmax = 511.4251073243014 
-            text = "" 
+            xmin = 412.063 
+            xmax = 413.484 
+            text = "Segment 212" 
         intervals [219]:
-            xmin = 511.4251073243014 
-            xmax = 513.7404354005355 
-            text = "S110" 
+            xmin = 413.602 
+            xmax = 413.618 
+            text = "" 
         intervals [220]:
-            xmin = 513.7404354005355 
-            xmax = 514.905988324205 
-            text = "" 
+            xmin = 413.736 
+            xmax = 420.43 
+            text = "Segment 214" 
         intervals [221]:
-            xmin = 514.905988324205 
-            xmax = 516.038621788525 
-            text = "S111" 
+            xmin = 420.64 
+            xmax = 429.105 
+            text = "Segment 215" 
         intervals [222]:
-            xmin = 516.038621788525 
-            xmax = 516.2959367410815 
-            text = "" 
+            xmin = 429.538 
+            xmax = 431.983 
+            text = "Segment 216" 
         intervals [223]:
-            xmin = 516.2959367410815 
-            xmax = 522.5848684076094 
-            text = "S112" 
+            xmin = 432.151 
+            xmax = 434.704 
+            text = "Segment 217" 
         intervals [224]:
-            xmin = 522.5848684076094 
-            xmax = 523.0536945587877 
-            text = "" 
+            xmin = 434.824 
+            xmax = 435.391 
+            text = "Segment 218" 
         intervals [225]:
-            xmin = 523.0536945587877 
-            xmax = 523.7232624078608 
-            text = "S113" 
+            xmin = 435.597 
+            xmax = 435.614 
+            text = "" 
         intervals [226]:
-            xmin = 523.7232624078608 
-            xmax = 524.2301315272526 
-            text = "" 
+            xmin = 435.882 
+            xmax = 437.229 
+            text = "Segment 220" 
         intervals [227]:
-            xmin = 524.2301315272526 
-            xmax = 525.6881624509352 
-            text = "S114" 
+            xmin = 437.53 
+            xmax = 437.565 
+            text = "" 
         intervals [228]:
-            xmin = 525.6881624509352 
-            xmax = 526.3731258548728 
-            text = "" 
+            xmin = 437.82 
+            xmax = 440.166 
+            text = "Segment 222" 
         intervals [229]:
-            xmin = 526.3731258548728 
-            xmax = 529.1953230504987 
-            text = "S115" 
+            xmin = 440.268 
+            xmax = 442.343 
+            text = "Segment 223" 
         intervals [230]:
-            xmin = 529.1953230504987 
-            xmax = 529.7224689369281 
-            text = "" 
+            xmin = 442.529 
+            xmax = 445.685 
+            text = "Segment 224" 
         intervals [231]:
-            xmin = 529.7224689369281 
-            xmax = 536.6684531656306 
-            text = "S116" 
+            xmin = 445.854 
+            xmax = 446.058 
+            text = "Segment 225" 
         intervals [232]:
-            xmin = 536.6684531656306 
-            xmax = 537.209618175648 
-            text = "" 
+            xmin = 446.207 
+            xmax = 448.804 
+            text = "Segment 226" 
         intervals [233]:
-            xmin = 537.209618175648 
-            xmax = 543.2670170345525 
-            text = "S117" 
+            xmin = 449.023 
+            xmax = 454.509 
+            text = "Segment 227" 
         intervals [234]:
-            xmin = 543.2670170345525 
-            xmax = 543.9186909298271 
+            xmin = 454.616 
+            xmax = 454.652 
             text = "" 
         intervals [235]:
-            xmin = 543.9186909298271 
-            xmax = 544.9136562382629 
-            text = "S118" 
+            xmin = 454.807 
+            xmax = 455.971 
+            text = "Segment 229" 
         intervals [236]:
-            xmin = 544.9136562382629 
-            xmax = 545.5554406509866 
-            text = "" 
+            xmin = 456.097 
+            xmax = 457.477 
+            text = "Segment 230" 
         intervals [237]:
-            xmin = 545.5554406509866 
-            xmax = 547.0885632960606 
-            text = "S119" 
+            xmin = 457.659 
+            xmax = 458.805 
+            text = "Segment 231" 
         intervals [238]:
-            xmin = 547.0885632960606 
-            xmax = 547.8026865676235 
-            text = "" 
+            xmin = 458.908 
+            xmax = 459.976 
+            text = "Segment 232" 
         intervals [239]:
-            xmin = 547.8026865676235 
-            xmax = 549.7300407500021 
-            text = "S120" 
+            xmin = 460.118 
+            xmax = 461.732 
+            text = "Segment 233" 
         intervals [240]:
-            xmin = 549.7300407500021 
-            xmax = 550.510244889746 
-            text = "" 
+            xmin = 461.849 
+            xmax = 471.627 
+            text = "Segment 234" 
         intervals [241]:
-            xmin = 550.510244889746 
-            xmax = 553.3261844419227 
-            text = "S121" 
+            xmin = 471.772 
+            xmax = 471.806 
+            text = "Segment 235" 
         intervals [242]:
-            xmin = 553.3261844419227 
-            xmax = 554.5299077392192 
+            xmin = 472.112 
+            xmax = 472.529 
             text = "" 
         intervals [243]:
-            xmin = 554.5299077392192 
-            xmax = 555.969165732554 
-            text = "S122" 
+            xmin = 472.64 
+            xmax = 474.291 
+            text = "Segment 237" 
         intervals [244]:
-            xmin = 555.969165732554 
-            xmax = 556.1958173280042 
-            text = "" 
+            xmin = 474.397 
+            xmax = 481.253 
+            text = "Segment 238" 
         intervals [245]:
-            xmin = 556.1958173280042 
-            xmax = 557.391027226817 
-            text = "S123" 
+            xmin = 481.354 
+            xmax = 482.612 
+            text = "Segment 239" 
         intervals [246]:
-            xmin = 557.391027226817 
-            xmax = 558.2185399988117 
-            text = "" 
+            xmin = 482.757 
+            xmax = 514.603 
+            text = "Segment 240" 
         intervals [247]:
-            xmin = 558.2185399988117 
-            xmax = 563.7502968079766 
-            text = "S124" 
+            xmin = 514.76 
+            xmax = 566.949 
+            text = "Segment 241" 
         intervals [248]:
-            xmin = 563.7502968079766 
-            xmax = 564.4262497059125 
+            xmin = 567.057 
+            xmax = 567.122 
             text = "" 
         intervals [249]:
-            xmin = 564.4262497059125 
-            xmax = 565.7841583344066 
-            text = "S125" 
+            xmin = 567.274 
+            xmax = 578.999 
+            text = "Segment 243" 
         intervals [250]:
-            xmin = 565.7841583344066 
-            xmax = 566.347346244842 
-            text = "" 
+            xmin = 579.111 
+            xmax = 581.725 
+            text = "Segment 244" 
         intervals [251]:
-            xmin = 566.347346244842 
-            xmax = 566.5413331917697 
-            text = "S126" 
+            xmin = 581.854 
+            xmax = 591.319 
+            text = "Segment 245" 
         intervals [252]:
-            xmin = 566.5413331917697 
-            xmax = 568.0362851160078 
-            text = "" 
+            xmin = 591.439 
+            xmax = 598.448 
+            text = "Segment 246" 
         intervals [253]:
-            xmin = 568.0362851160078 
-            xmax = 569.8697746466472 
-            text = "S127" 
+            xmin = 598.589 
+            xmax = 601.228 
+            text = "Segment 247" 
         intervals [254]:
-            xmin = 569.8697746466472 
-            xmax = 570.6466017581164 
-            text = "" 
+            xmin = 601.341 
+            xmax = 604.052 
+            text = "Segment 248" 
         intervals [255]:
-            xmin = 570.6466017581164 
-            xmax = 571.9231610217698 
-            text = "S128" 
+            xmin = 604.195 
+            xmax = 619.689 
+            text = "Segment 249" 
         intervals [256]:
-            xmin = 571.9231610217698 
-            xmax = 572.7867158177708 
+            xmin = 619.793 
+            xmax = 620.317 
             text = "" 
         intervals [257]:
-            xmin = 572.7867158177708 
-            xmax = 574.770388791193 
-            text = "S129" 
+            xmin = 620.484 
+            xmax = 622.823 
+            text = "Segment 251" 
         intervals [258]:
-            xmin = 574.770388791193 
-            xmax = 575.3836378492226 
-            text = "" 
+            xmin = 622.98 
+            xmax = 626.106 
+            text = "Segment 252" 
         intervals [259]:
-            xmin = 575.3836378492226 
-            xmax = 576.9730792853401 
-            text = "S130" 
+            xmin = 626.241 
+            xmax = 627.439 
+            text = "Segment 253" 
         intervals [260]:
-            xmin = 576.9730792853401 
-            xmax = 577.8625439788964 
+            xmin = 627.54 
+            xmax = 627.542 
             text = "" 
         intervals [261]:
-            xmin = 577.8625439788964 
-            xmax = 578.7636446355929 
-            text = "S131" 
+            xmin = 627.67 
+            xmax = 628.689 
+            text = "Segment 255" 
         intervals [262]:
-            xmin = 578.7636446355929 
-            xmax = 579.7022911529851 
-            text = "" 
+            xmin = 628.879 
+            xmax = 630.576 
+            text = "Segment 256" 
         intervals [263]:
-            xmin = 579.7022911529851 
-            xmax = 580.8536975476529 
-            text = "S132" 
+            xmin = 630.71 
+            xmax = 638.91 
+            text = "Segment 257" 
         intervals [264]:
-            xmin = 580.8536975476529 
-            xmax = 581.8397794082917 
-            text = "" 
+            xmin = 639.033 
+            xmax = 644.052 
+            text = "Segment 258" 
         intervals [265]:
-            xmin = 581.8397794082917 
-            xmax = 588.8483400714871 
-            text = "S133" 
+            xmin = 644.186 
+            xmax = 649.86 
+            text = "Segment 259" 
         intervals [266]:
-            xmin = 588.8483400714871 
-            xmax = 589.954693241729 
-            text = "" 
+            xmin = 649.994 
+            xmax = 653.371 
+            text = "Segment 260" 
         intervals [267]:
-            xmin = 589.954693241729 
-            xmax = 590.8808244722228 
-            text = "S134" 
+            xmin = 653.748 
+            xmax = 661.225 
+            text = "Segment 261" 
         intervals [268]:
-            xmin = 590.8808244722228 
-            xmax = 591.6943181206294 
-            text = "" 
+            xmin = 661.364 
+            xmax = 679.353 
+            text = "Segment 262" 
         intervals [269]:
-            xmin = 591.6943181206294 
-            xmax = 593.6091570161095 
-            text = "S135" 
+            xmin = 679.487 
+            xmax = 680.848 
+            text = "Segment 263" 
         intervals [270]:
-            xmin = 593.6091570161095 
-            xmax = 594.8261475186493 
+            xmin = 680.968 
+            xmax = 681.019 
             text = "" 
         intervals [271]:
-            xmin = 594.8261475186493 
-            xmax = 600.3766772581621 
-            text = "S136" 
+            xmin = 681.136 
+            xmax = 688.96 
+            text = "Segment 265" 
         intervals [272]:
-            xmin = 600.3766772581621 
-            xmax = 601.3822843147027 
-            text = "" 
-        intervals [273]:
-            xmin = 601.3822843147027 
-            xmax = 603.8102499730239 
-            text = "S137" 
-        intervals [274]:
-            xmin = 603.8102499730239 
-            xmax = 604.2267592215735 
-            text = "" 
-        intervals [275]:
-            xmin = 604.2267592215735 
-            xmax = 606.8862576875182 
-            text = "S138" 
-        intervals [276]:
-            xmin = 606.8862576875182 
-            xmax = 607.2757354180633 
-            text = "" 
-        intervals [277]:
-            xmin = 607.2757354180633 
-            xmax = 610.4984217944433 
-            text = "S139" 
-        intervals [278]:
-            xmin = 610.4984217944433 
-            xmax = 610.8551074710523 
-            text = "" 
-        intervals [279]:
-            xmin = 610.8551074710523 
-            xmax = 613.1516626169387 
-            text = "S140" 
-        intervals [280]:
-            xmin = 613.1516626169387 
-            xmax = 613.5287521187897 
-            text = "" 
-        intervals [281]:
-            xmin = 613.5287521187897 
-            xmax = 614.3672763409935 
-            text = "S141" 
-        intervals [282]:
-            xmin = 614.3672763409935 
-            xmax = 615.406797071919 
-            text = "" 
-        intervals [283]:
-            xmin = 615.406797071919 
-            xmax = 618.6482563786468 
-            text = "S142" 
-        intervals [284]:
-            xmin = 618.6482563786468 
-            xmax = 620.4957650328744 
-            text = "" 
-        intervals [285]:
-            xmin = 620.4957650328744 
-            xmax = 622.71097081392 
-            text = "S143" 
-        intervals [286]:
-            xmin = 622.71097081392 
-            xmax = 623.355508089196 
-            text = "" 
-        intervals [287]:
-            xmin = 623.355508089196 
-            xmax = 626.0150065551406 
-            text = "S144" 
-        intervals [288]:
-            xmin = 626.0150065551406 
-            xmax = 626.5741922299522 
-            text = "" 
-        intervals [289]:
-            xmin = 626.5741922299522 
-            xmax = 628.657987498563 
-            text = "S145" 
-        intervals [290]:
-            xmin = 628.657987498563 
-            xmax = 629.4403203351367 
-            text = "" 
-        intervals [291]:
-            xmin = 629.4403203351367 
-            xmax = 631.8682859934579 
-            text = "S146" 
-        intervals [292]:
-            xmin = 631.8682859934579 
-            xmax = 632.7736430021874 
-            text = "" 
-        intervals [293]:
-            xmin = 632.7736430021874 
-            xmax = 638.7058889921063 
-            text = "S147" 
-        intervals [294]:
-            xmin = 638.7058889921063 
-            xmax = 639.1219011331381 
-            text = "" 
-        intervals [295]:
-            xmin = 639.1219011331381 
-            xmax = 650.8738829363023 
-            text = "S148" 
-        intervals [296]:
-            xmin = 650.8738829363023 
-            xmax = 651.6590960408417 
-            text = "" 
-        intervals [297]:
-            xmin = 651.6590960408417 
-            xmax = 655.7515948566719 
-            text = "S149" 
-        intervals [298]:
-            xmin = 655.7515948566719 
-            xmax = 656.3761101757374 
-            text = "" 
-        intervals [299]:
-            xmin = 656.3761101757374 
-            xmax = 658.522481878841 
-            text = "S150" 
-        intervals [300]:
-            xmin = 658.522481878841 
-            xmax = 659.3854118147016 
-            text = "" 
-        intervals [301]:
-            xmin = 659.3854118147016 
-            xmax = 663.84085395059 
-            text = "S151" 
-        intervals [302]:
-            xmin = 663.84085395059 
-            xmax = 664.7991523748793 
-            text = "" 
-        intervals [303]:
-            xmin = 664.7991523748793 
-            xmax = 666.6889606965624 
-            text = "S152" 
-        intervals [304]:
-            xmin = 666.6889606965624 
-            xmax = 667.6457556313711 
-            text = "" 
-        intervals [305]:
-            xmin = 667.6457556313711 
-            xmax = 669.1350747723002 
-            text = "S153" 
-        intervals [306]:
-            xmin = 669.1350747723002 
-            xmax = 669.6482015351412 
-            text = "" 
-        intervals [307]:
-            xmin = 669.6482015351412 
-            xmax = 673.6843815599278 
-            text = "S154" 
-        intervals [308]:
-            xmin = 673.6843815599278 
-            xmax = 674.0955124887867 
-            text = "" 
-        intervals [309]:
-            xmin = 674.0955124887867 
-            xmax = 683.8137601709343 
-            text = "S155" 
-        intervals [310]:
-            xmin = 683.8137601709343 
-            xmax = 684.6629261412427 
-            text = "" 
-        intervals [311]:
-            xmin = 684.6629261412427 
-            xmax = 688.5551803666958 
-            text = "S156" 
-        intervals [312]:
-            xmin = 688.5551803666958 
-            xmax = 694.4180952380952 
-            text = "" 
+            xmin = 694.418 
+            xmax = 694.418 
+            text = "Segment 266" 
