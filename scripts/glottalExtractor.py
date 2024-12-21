@@ -95,19 +95,20 @@ def process_audio(audioFolder, outputFolder):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        description="Process audio files to extract glottal features."
-    )
-    parser.add_argument(
-        "--audioFolder",
-        type=str,
-        required=True,
-        help="Path to the folder containing audio files.",
-    )
-
-    args = parser.parse_args()
-
-    audioFolder = args.audioFolder
-    outputFolder = "/home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/Data/glottal_features_resampled"
+    # parser = argparse.ArgumentParser(
+    #     description="Process audio files to extract glottal features."
+    # )
+    # parser.add_argument(
+    #     "--audioFolder",
+    #     type=str,
+    #     required=True,
+    #     help="Path to the folder containing audio files.",
+    # )
+    #
+    # args = parser.parse_args()
+    #
+    # audioFolder = args.audioFolder
+    audioFolder = "/home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/"
+    outputFolder = "/home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/Data/glottal_features"
 
     process_audio(audioFolder, outputFolder)

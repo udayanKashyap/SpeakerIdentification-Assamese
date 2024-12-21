@@ -65,7 +65,7 @@ if __name__ == "__main__":
     # Specify paths
     textgrid_folder = "../Annotations/"
     audio_folder = "../AssameseAudios/Audios/"
-    output_folder = "../AssameseAudios/Audios/seperateFilesResampled/"
+    output_folder = "../AssameseAudios/Audios/seperateFiles/"
 
     # Process files
     process_textgrid_and_audio_files(textgrid_folder, audio_folder, output_folder)

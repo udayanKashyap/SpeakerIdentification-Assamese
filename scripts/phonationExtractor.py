@@ -97,6 +97,6 @@ def process_audio(audioFolder, outputFolder):
 
 if __name__ == "__main__":
     textGridFolder = "../Annotations"
-    audioFolder = "/home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFilesResampled//"
-    outputFolder = "../Data/phonation_features_resampled/"
+    audioFolder = "/home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/"
+    outputFolder = "../Data/phonation_features/"
     process_audio(audioFolder, outputFolder)

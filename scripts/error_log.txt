@@ -261,3 +261,438 @@ Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese
 Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFilesResampled/AA09_S72.wav: module 'sys' has no attribute 'warn'
 Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFilesResampled/AA10_S44.wav: module 'sys' has no attribute 'warn'
 Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFilesResampled/AA09_S45.wav: module 'sys' has no attribute 'warn'
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S378.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S100.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S573.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S673.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S99.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S68.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S53.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S122.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S146.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S311.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S42.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S232.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S135.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S165.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S319.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S188.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S9.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S128.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S86.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S124.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S20.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S311.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S308.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S270.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S199.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S162.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S98.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S6.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S323.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S109.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S180.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S647.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S649.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S196.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S461.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S422.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S303.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S339.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S105.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S70.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S523.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S140.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S693.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S211.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S37.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S213.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S39.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S288.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S63.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S564.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S495.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S223.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S368.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S497.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S593.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S298.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S426.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S21.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S4.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S152.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S340.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S551.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S147.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S94.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S1.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S391.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S25.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S177.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S56.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S258.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S52.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S186.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S19.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S49.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S459.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S669.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S201.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S245.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S442.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S51.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S619.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S250.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S562.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S457.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S163.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S343.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S521.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S58.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S32.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S536.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S256.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S69.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S587.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S338.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S235.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S307.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S679.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S151.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S499.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S262.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S255.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S280.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S334.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S633.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S12.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S617.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S358.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S160.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S553.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S157.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S44.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S13.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S651.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S389.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S252.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S486.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S413.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S242.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S532.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S381.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S45.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S165.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S18.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S660.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S187.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S89.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S272.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S27.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S548.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S591.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S569.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S62.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S466.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S36.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S207.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S54.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S385.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S448.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S584.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S607.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S615.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S56.wav: [Errno 2] No such file or directory: '/home/udayan/anaconda3/envs/fsp2/lib/python3.10/site-packages/disvoice/articulation/../../tempfiles/tempFormantsarticAA05_S56.txt'
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S571.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S611.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S394.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S45.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S372.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S399.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S107.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S194.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S629.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S104.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S575.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S52.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S365.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S88.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S342.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S434.wav: [Errno 2] No such file or directory: '/home/udayan/anaconda3/envs/fsp2/lib/python3.10/site-packages/disvoice/articulation/../../tempfiles/tempFormantsarticAA05_S434.txt'
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S175.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S481.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S216.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S61.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S172.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S378.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S100.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S573.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S673.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S99.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S68.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S53.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S122.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S146.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S311.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S42.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S232.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S135.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S165.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S319.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S188.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S9.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S128.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S86.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S124.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S20.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S311.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S308.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S270.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S199.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S162.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S98.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S6.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S323.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S109.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S180.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S647.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S649.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S196.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S461.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S422.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S303.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S339.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S105.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S70.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S523.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S140.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S693.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S211.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S37.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S213.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S39.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S288.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S63.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S564.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S495.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S223.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S368.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S497.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S593.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S298.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S426.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S21.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S4.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S152.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S340.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S551.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S147.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S94.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S1.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S391.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S25.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S177.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S56.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S258.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S52.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S186.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S19.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S49.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S459.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S669.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S201.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S378.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S100.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S573.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S673.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S99.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S68.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S53.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S122.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S146.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S311.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S42.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S232.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S135.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S165.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S319.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S188.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S9.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S128.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S86.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S124.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S20.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S311.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S308.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S270.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S199.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S162.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S98.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S6.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S323.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S109.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S180.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S647.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S649.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S196.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S461.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S422.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S303.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S339.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S105.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S70.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S523.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S140.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S693.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S211.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S37.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S213.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S39.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S288.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S63.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S564.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S495.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S223.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S368.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S497.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S593.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S298.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S426.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S21.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S4.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S152.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S340.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S551.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S147.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S94.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S1.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S391.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S25.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S177.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S56.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S258.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S52.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S186.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S19.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S49.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S459.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S669.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S201.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S245.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S442.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S51.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S619.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S250.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S562.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S457.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S163.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S343.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S521.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S58.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S32.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S536.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S256.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S69.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S587.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S338.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S235.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S307.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S679.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S151.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S499.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S262.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S255.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S280.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S334.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S633.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S12.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S617.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S358.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S160.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S553.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S157.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S44.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S13.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S651.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S389.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S252.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S486.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S413.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S242.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S532.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S381.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S45.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S165.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S18.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S660.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S187.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S89.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S272.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S27.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S548.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S591.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S569.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S62.wav: input range too small for analysis by get_f0
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S466.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S36.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S207.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S54.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S385.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S448.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S584.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S607.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S615.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S56.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S571.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S611.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S394.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S45.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S372.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S399.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S107.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA08_S194.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S629.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S104.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S575.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S52.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S365.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S88.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S342.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S434.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S175.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S481.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S216.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S61.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S172.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S126.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S577.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S143.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S205.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S35.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S79.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S6.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S596.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S178.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S94.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S33.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S124.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S153.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S492.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S196.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S356.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S671.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S112.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S436.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S148.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S57.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S446.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S455.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S475.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S675.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S677.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S168.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S11.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA09_S182.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA10_S80.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S396.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
+Error processing file /home/udayan/AaFiles/Speech/SpeakerIdentification-Assamese/AssameseAudios/Audios/seperateFiles/AA05_S145.wav: too many indices for array: array is 1-dimensional, but 2 were indexed
